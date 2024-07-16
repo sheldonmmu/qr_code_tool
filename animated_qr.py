@@ -11,4 +11,4 @@ qr_code.to_artistic(
 )
 
 # to create, run in terminal:
-# python qr_code_gen.py
+# python animated_qr.py
